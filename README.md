@@ -20,6 +20,44 @@ I’m Rakib Hosen, a developer focused on vibe coding and experimental building.
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,linux&theme=dark" />
 </p>
 
+## 🛠 Tech Stack
+
+### ⚙️ Programming
+<p>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+</p>
+
+---
+
+### 🧠 Problem Solving
+<p>
+<img src="https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+
+---
+
+### ⚡ Scripting & Automation
+<p>
+<img src="https://img.shields.io/badge/Automation-darkgreen?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scripting-gray?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
+---
+
+### 🌐 Web3
+<p>
+<img src="https://img.shields.io/badge/Web3-black?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blockchain-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
 ---
 
 ## 🚀 Current Focus
