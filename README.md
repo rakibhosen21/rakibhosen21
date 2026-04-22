@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+RAKIB+HOSEN;Vibe+Coder;Experimental+Builder;Web3+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=RAKIB+HOSEN;Vibe+Coding;Experimental+Builder;Web3+Explorer" />
 </p>
 
 <p align="center">
@@ -10,20 +10,23 @@
 
 ## 👨‍💻 About Me
 
-- ⚡ I love **Vibe Coding & Experimental Building**  
-- 🧠 Focused on solving real problems  
-- 🚀 Exploring **Web3 & modern tech**  
-- 🔥 Always building something new  
+I’m Rakib Hosen, a developer focused on vibe coding and experimental building. I work with C, C++, and Python, with strong problem-solving skills and experience in scripting, automation, and frontend (HTML). Currently exploring Web3 and building modern projects.
 
 ---
 
-## 🛠 My Skills
+## 🛠 Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html" />
-
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,linux&theme=dark" />
 </p>
+
+---
+
+## 🚀 Current Focus
+
+- 🧪 Building experimental projects  
+- 🌐 Learning Web3  
+- ⚡ Improving backend & problem-solving  
 
 ---
 
@@ -39,15 +42,15 @@
 
 ---
 
-## 🔥 Streak Stats
+## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhosen21&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibhosen21&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
@@ -55,7 +58,23 @@
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 Featured Project
+
+- 🔹 [ArcForge](https://arc-meme-launchpad.vercel.app/)  
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+<a href="https://my-portfolio-woad-eight-60.vercel.app/">
+  <img src="https://img.shields.io/badge/View%20My%20Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+</p>
+
+---
+
+## 🤝 Connect
 
 <p align="center">
 
@@ -84,5 +103,5 @@
 ---
 
 <p align="center">
-✨ <b>Build. Break. Learn. Repeat.</b> ✨
+💻 <b>Code. Experiment. Improve.</b>
 </p>
