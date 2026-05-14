@@ -20,44 +20,6 @@ I’m Rakib Hosen, a developer focused on vibe coding and experimental building.
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,linux&theme=dark" />
 </p>
 
-## 🛠 Tech Stack
-
-### ⚙️ Programming
-<p>
-<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
-
----
-
-### 🧠 Problem Solving
-<p>
-<img src="https://img.shields.io/badge/Problem%20Solving-orange?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
----
-
-### ⚡ Scripting & Automation
-<p>
-<img src="https://img.shields.io/badge/Automation-darkgreen?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scripting-gray?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
----
-
-### 🎨 Frontend
-<p>
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
----
-
-### 🌐 Web3
-<p>
-<img src="https://img.shields.io/badge/Web3-black?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-blueviolet?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
 ---
 
 ## 🚀 Current Focus
@@ -71,11 +33,17 @@ I’m Rakib Hosen, a developer focused on vibe coding and experimental building.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rakibhosen21&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhosen21&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhosen21&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rakibhosen21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibhosen21&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -88,17 +56,15 @@ I’m Rakib Hosen, a developer focused on vibe coding and experimental building.
 
 ---
 
-
-
 <p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🚀 Featured Project
 
-- 🔹 [ArcForge](https://arc-meme-launchpad.vercel.app/)  
+- 🔹 [ArcForge](https://arc-meme-launchpad.vercel.app/)
 
 ---
 
